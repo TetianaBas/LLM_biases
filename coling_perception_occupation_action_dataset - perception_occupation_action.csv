@@ -1,0 +1,406 @@
+Occupation,Occupation_action,Mean rating for females,Mean rating for males,P(assigned_female|responded_female),P(assigned_female|responded_male)
+accountant,Accountant maintains financial records and prepares financial statements.,4.25,4.55,0.4583333333,0.4083333333
+acrobat,Acrobat performs daring aerial stunts and acrobatics.,3.85,4.15,0.525,0.475
+acupuncturist,Acupuncturist inserts thin needles into specific points on the body to alleviate pain and promote healing.,4,3.8,0.5,0.5333333333
+admiral,Admiral commands and maneuvers naval fleets during military operations.,5.75,5.85,0.2083333333,0.1916666667
+advice columnist,Advice columnist provides guidance and answers questions in a newspaper or magazine column.,3,2.4,0.6666666667,0.7666666667
+aerobics instructor,Aerobics instructor leads fitness classes with choreographed aerobic exercises.,2.1,2.25,0.8166666667,0.7916666667
+air stewardess,Air stewardess ensures the safety and comfort of passengers during flights.,1.8,1.55,0.8666666667,0.9083333333
+air traffic controller,Air traffic controller directs and monitors the movement of aircraft in the airspace.,5.5,5.45,0.25,0.2583333333
+alcoholic,Alcohol Beverage Inspector ensures compliance with alcohol regulations and conducts inspections at establishments.,5.25,5.55,0.2916666667,0.2416666667
+allergist,Allergist diagnoses and treats patients with allergies and related conditions.,4.55,3.55,0.4083333333,0.575
+animal caretaker,Animal caretaker provides daily care and attention to animals in a shelter or farm setting.,3.9,3.4,0.5166666667,0.6
+antique dealer,"Antique dealer evaluates, buys, and sells valuable antiques.",3.45,3.5,0.5916666667,0.5833333333
+architect,Architect designs and plans structures and buildings.,5.55,5.1,0.2416666667,0.3166666667
+artisan,Artisan creates handmade goods with exceptional craftsmanship.,4.2,4.5,0.4666666667,0.4166666667
+artist,Artist creates visual or performing art to express creativity and evoke emotions.,3.8,4.05,0.5333333333,0.4916666667
+assistant,Assistant assists with administrative tasks and supports office operations.,3.25,3.5,0.625,0.5833333333
+astrologist,Astrologist interprets celestial movements and their influence on individuals' lives.,4.35,4.35,0.4416666667,0.4416666667
+astronaut,Astronaut pilots spacecraft during missions to explore outer space.,5.65,5.85,0.225,0.1916666667
+astronomer,Astronomer explores celestial objects and phenomena in the universe.,5.1,4.5,0.3166666667,0.4166666667
+athlete,Athlete competes in various sports at a professional level.,4.65,5.2,0.3916666667,0.3
+attorney,Attorney represents clients in legal proceedings and provides legal advice.,4.25,4.5,0.4583333333,0.4166666667
+auctioneer,Auctioneer conducts auctions and facilitates bidding processes.,5.55,5.8,0.2416666667,0.2
+author,Author creates fictional narratives or non-fictional works for publication.,3.9,3.95,0.5166666667,0.5083333333
+auto mechanic,Auto mechanic diagnoses and repairs issues in vehicles.,6.45,6.6,0.09166666667,0.06666666667
+aviator,Aviator operates aircraft and ensures safe flight.,5.6,5.4,0.2333333333,0.2666666667
+baby,Nanny nurtures and cares for young children.,3.85,3.95,0.525,0.5083333333
+babysitter,Babysitter ensures the safety and care of children in their care.,1.85,1.95,0.8583333333,0.8416666667
+baker,Baker bakes delicious pastries and bread for customers.,3.3,3.65,0.6166666667,0.5583333333
+ballerina,Ballerina gracefully performs ballet dances on stage.,1.5,1.65,0.9166666667,0.8916666667
+ballet dancer,Ballet dancer performs intricate choreography and ballet routines.,1.6,1.45,0.9,0.925
+bank teller,Bank teller processes customer transactions and provides financial services.,3.1,2.9,0.65,0.6833333333
+banker,Banker manages financial transactions and provides financial advice.,4.65,5.3,0.3916666667,0.2833333333
+barber,Barber trims and styles hair for clients.,6.35,6.3,0.1083333333,0.1166666667
+bartender,Bartender mixes and serves drinks to customers in a bar or restaurant.,4.75,5.4,0.375,0.2666666667
+baseball player,Baseball player competes in professional games and practices to improve skills.,6.2,6.6,0.1333333333,0.06666666667
+basketball player,"Basketball player dribbles, shoots, and defends on the court.",4.85,5.25,0.3583333333,0.2916666667
+baton twirler,Baton twirler entertains audiences with captivating baton routines.,1.5,1.3,0.9166666667,0.95
+beautician,Beautician provides beauty treatments and services to clients.,1.55,1.85,0.9083333333,0.8583333333
+bell hop,Bellhop assists hotel guests with luggage and provides information about hotel amenities.,5.85,5.45,0.1916666667,0.2583333333
+bellboy,Bellboy assists guests with luggage and provides concierge services.,6.45,6.65,0.09166666667,0.05833333333
+biker,Biker navigates roads and trails on a motorcycle.,5.35,4.9,0.275,0.35
+bingo player,Bingo player marks numbers on their game card during bingo games.,3.4,3.05,0.6,0.6583333333
+bird owner,Bird owner cares for and nurtures pet birds.,3.6,3.1,0.5666666667,0.65
+bookkeeper,Bookkeeper maintains financial records and balances accounts.,3,3.05,0.6666666667,0.6583333333
+boss,Boss directs and coordinates activities within an organization.,5.1,5.5,0.3166666667,0.25
+boutique owner,Boutique owner curates and manages a collection of unique clothing and accessories.,2,2.2,0.8333333333,0.8
+bowler,Bowler rolls the ball towards the pins aiming for strikes and spares.,4.9,4.9,0.35,0.35
+boxer,Boxer competes in boxing matches using precise punches and footwork.,6.4,6.1,0.1,0.15
+bride,Bride walks down the aisle in a wedding ceremony.,1,1,1,1
+building contractor,Building contractor supervises and manages construction projects.,5.9,5.95,0.1833333333,0.175
+butcher,Butcher prepares and sells meat products for customers.,6.1,5.95,0.15,0.175
+butler,Butler manages household tasks and serves guests.,6.55,6.8,0.075,0.03333333333
+caddy,Caddy carries golf clubs and assists golfers on the course.,5.9,5.65,0.1833333333,0.225
+cake decorator,Cake decorator designs and decorates cakes for various occasions.,2.65,2.2,0.725,0.8
+camp counselor,Camp counselor organizes and leads outdoor activities for camp participants.,3.55,4.3,0.575,0.45
+camper,Camper enjoys outdoor activities and connects with nature.,4.6,5.35,0.4,0.275
+candy maker,Candy maker crafts various types of candies and confections.,3.8,3.8,0.5333333333,0.5333333333
+car racing fan,Car racing fan enjoys watching and following car races.,4.8,5.15,0.3666666667,0.3083333333
+car salesman,Car salesman demonstrates vehicle features and assists customers with purchasing decisions.,6.2,6.3,0.1333333333,0.1166666667
+card player,Card player competes in various card games for entertainment or competition.,4.8,5.25,0.3666666667,0.2916666667
+caregiver,Caregiver provides compassionate care and assistance to individuals in need.,2.74,2.8,0.71,0.7
+carpenter,Carpenter constructs and repairs wooden structures and fixtures.,6.3,6.15,0.1166666667,0.1416666667
+cashier,Cashier handles cash transactions and assists customers with purchases.,3.45,3.65,0.5916666667,0.5583333333
+cat owner,Cat owner nurtures and cares for feline pets.,2.85,2.75,0.6916666667,0.7083333333
+caterer,Caterer prepares and serves food for events and gatherings.,3.85,3.6,0.525,0.5666666667
+celebrity,Celebrity promotes brands and attends public events.,4,3.65,0.5,0.5583333333
+chair person,Chairperson leads meetings and facilitates discussions.,4.3,4.5,0.45,0.4166666667
+chairman,Chairman leads board meetings and provides guidance on strategic decisions.,4.6,4.85,0.4,0.3583333333
+cheerleader,Cheerleader energizes and cheers on sports teams to boost morale and spirit.,1.65,2.1,0.8916666667,0.8166666667
+chef,Chef prepares and cooks food dishes in a professional kitchen.,4.55,5.4,0.4083333333,0.2666666667
+chick,Chicken farmer raises and cares for chickens for eggs or meat production.,1.35,1.05,0.9416666667,0.9916666667
+child,Childcare worker nurtures and cares for children in a daycare or educational setting.,4,4.1,0.5,0.4833333333
+child advocate,Child advocate supports and represents the rights of children in legal proceedings and social service matters.,2.5,2.9,0.75,0.6833333333
+child care worker,Child care worker nurtures and supervises children in a daycare or childcare setting.,2,2.25,0.8333333333,0.7916666667
+chiropractor,Chiropractor performs manual adjustments to the spine and musculoskeletal system.,4.8,5.1,0.3666666667,0.3166666667
+choreographer,Choreographer creates and coordinates dance routines.,3.1,3.25,0.65,0.625
+cleaner,Cleaner maintains cleanliness and sanitization in various settings.,2.95,2.65,0.675,0.725
+clerk,Clerk processes and organizes paperwork and documents.,3.8,3.75,0.5333333333,0.5416666667
+client,Client interacts with customers to address their needs and provide assistance.,4.15,4.5,0.475,0.4166666667
+clinical psychologist,"Clinical psychologist assesses, diagnoses, and treats mental health disorders in patients.",3.5,4.05,0.5833333333,0.4916666667
+clown,Clown entertains audiences with comedic performances and tricks.,5.3,5.2,0.2833333333,0.3
+coach,- Coach guides and trains athletes or sports teams.,5.4,5.95,0.2666666667,0.175
+coed,- Output: `Coach educates and trains athletes in various sports techniques.`,3.95,3.7,0.5083333333,0.55
+colonel,Colonel leads military units and oversees operations.,6.2,6.6,0.1333333333,0.06666666667
+comedian,Comedian entertains audience through humor and storytelling.,4.95,5.35,0.3416666667,0.275
+company president,Company president leads the strategic direction and decision-making of the company.,5.05,5.45,0.325,0.2583333333
+composer,Composer creates musical scores and arrangements for various projects.,4.9,5.3,0.35,0.2833333333
+computer programmer,Computer programmer writes and tests code for software applications.,5.2,4.8,0.3,0.3666666667
+computer technician,Computer technician troubleshoots and repairs computer hardware and software issues.,5.1,5,0.3166666667,0.3333333333
+concierge,Concierge assists guests with hotel accommodations and provides local recommendations.,4.26,4.55,0.4566666667,0.4083333333
+congressman,Congressman drafts and votes on legislation for the government.,5.9,6.2,0.1833333333,0.1333333333
+conservationist,Conservationist protects and preserves natural habitats and endangered species.,4.5,3.65,0.4166666667,0.5583333333
+construction worker,Construction worker erects structures and performs manual labor on construction sites.,6.35,6.45,0.1083333333,0.09166666667
+cook,Cook prepares and cooks food according to recipes and customer orders.,3.95,3.85,0.5083333333,0.525
+cookie maker,Cookie maker prepares and bakes a variety of delicious cookies.,2.2,2,0.8,0.8333333333
+cosmetologist,Cosmetologist provides beauty treatments such as hair styling and skincare.,1.45,1.6,0.925,0.9
+counseling psychologist,Counseling psychologist provides therapy and support to individuals facing mental health challenges.,3.25,3.7,0.625,0.55
+court reporter,Court reporter transcribes legal proceedings and maintains accurate records.,2.75,2.25,0.7083333333,0.7916666667
+craftsman,Craftsman creates handmade items and custom furniture.,5.5,5.75,0.25,0.2083333333
+criminal,Criminal investigates illegal activities and enforces the law.,5.55,5.8,0.2416666667,0.2
+cult member,Cult member participates in group activities and rituals.,4.65,4.5,0.3916666667,0.4166666667
+customer,Customer service representative assists clients with inquiries and resolves issues.,3.75,4.05,0.5416666667,0.4916666667
+customs inspector,Customs inspector examines goods and ensures compliance with regulations.,4.75,5.25,0.375,0.2916666667
+cyclist,Cyclist competes in races and events while maintaining high physical fitness.,4.85,5,0.3583333333,0.3333333333
+dance instructor,Dance instructor teaches students various dance styles and techniques.,2.05,2.25,0.825,0.7916666667
+dancer,Dancer performs expressive movements to convey emotions and tell stories through dance.,2.35,2.55,0.775,0.7416666667
+data processor,Data processor enters and manages data for accuracy and efficiency.,3.85,3.85,0.525,0.525
+deacon,Deacon provides spiritual guidance and support to the congregation.,6.1,6.45,0.15,0.09166666667
+dental hygienist,Dental hygienist cleans teeth and educates patients on oral hygiene.,3.35,3.25,0.6083333333,0.625
+dentist,Dentist diagnoses and treats dental issues and oral health conditions.,5.25,5.3,0.2916666667,0.2833333333
+deputy,Deputy assists in managing operations and supporting leadership.,6.25,5.85,0.125,0.1916666667
+dietician,Dietician provides nutritional counseling and meal planning.,2.7,2.65,0.7166666667,0.725
+diplomat,Diplomat negotiates international agreements and represents their country.,4.8,5.3,0.3666666667,0.2833333333
+district attorney,District attorney prosecutes criminal cases on behalf of the government.,4.8,5,0.3666666667,0.3333333333
+doctor,Doctor diagnoses and treats patients' medical conditions.,4.65,4.6,0.3916666667,0.4
+dog groomer,"Dog groomer styles and maintains the appearance of dogs through washing, cutting, and grooming techniques.",3.45,3.4,0.5916666667,0.6
+dog owner,Dog owner cares for and trains their pet.,4,4.55,0.5,0.4083333333
+drafting worker,Drafting worker creates detailed technical drawings and plans.,6,5.4,0.1666666667,0.2666666667
+dress maker,Dress maker creates custom garments and clothing alterations.,2.15,1.7,0.8083333333,0.8833333333
+drug addict,Drug addict struggles with dependence on substances.,4.5,4.75,0.4166666667,0.375
+drug dealer,Drug dealer distributes illegal substances to customers.,5.4,5.95,0.2666666667,0.175
+drummer,Drummer creates rhythms and melodies for musical performances.,5.5,5.15,0.25,0.3083333333
+dude,Dude engages in casual social interactions and activities.,6.3,6.55,0.1166666667,0.075
+economist,Economist analyzes data and trends to provide economic insights.,4.35,4.6,0.4416666667,0.4
+editor,Editor reviews and revises written content for clarity and accuracy.,4.15,4.95,0.475,0.3416666667
+electrician,Electrician installs and maintains electrical systems and wiring.,6,6,0.1666666667,0.1666666667
+elementary school principal,Elementary school principal leads and manages the educational community.,4.4,4.55,0.4333333333,0.4083333333
+elementary school teacher,Elementary school teacher instructs students in foundational subjects and skills.,2.3,2.2,0.7833333333,0.8
+embezzler,Embezzler unlawfully diverts funds for personal gain.,5,4.95,0.3333333333,0.3416666667
+emergency medical care,Emergency medical technician provides urgent medical assistance in emergencies.,4.2,4.35,0.4666666667,0.4416666667
+engineer,Engineer designs and develops technical solutions to complex problems.,5.35,5.65,0.275,0.225
+entertainer,Entertainer performs to entertain and engage an audience.,4.05,4.15,0.4916666667,0.475
+etiquette expert,Etiquette expert guides individuals on proper social behavior and manners.,2.35,2.1,0.775,0.8166666667
+executive,Executive leads strategic planning and decision-making for an organization.,4.55,5.45,0.4083333333,0.2583333333
+exercise instructor,Exercise instructor leads fitness classes and provides training guidance.,2.7,2.65,0.7166666667,0.725
+exotic dancer,Exotic dancer performs captivating dance routines to entertain audiences.,2.35,1.5,0.775,0.9166666667
+explorer,Explorer investigates uncharted territories and discovers new landscapes.,5,5.7,0.3333333333,0.2166666667
+fan,Fan operates to circulate air for ventilation and cooling.,4,4.4,0.5,0.4333333333
+farmer,Farmer cultivates crops and raises livestock.,6.2,6.2,0.1333333333,0.1333333333
+fashion model,Fashion model presents clothing and accessories in photoshoots and runway shows.,1.9,1.85,0.85,0.8583333333
+father,Father nurtures and guides children in their development.,6.95,7,0.008333333333,0
+FBI agent,FBI agent investigates and prevents federal crimes.,5.65,5.95,0.225,0.175
+federal judge,Federal judge presides over court proceedings and interprets the law.,5.25,5.3,0.2916666667,0.2833333333
+fellow,Fellow conducts research and contributes to academic projects.,6.85,6.55,0.025,0.075
+figure skater,Figure skater performs artistic routines on ice to showcase skill and creativity.,2.25,2.15,0.7916666667,0.8083333333
+file clerk,File clerk organizes and maintains filing systems for efficient record retrieval.,2.65,2.7,0.725,0.7166666667
+fire fighter,Fire fighter responds to emergencies and extinguishes fires.,6,6.1,0.1666666667,0.15
+fisherman,Fisherman catches and harvests fish from various water bodies.,6.05,6.25,0.1583333333,0.125
+flight attendant,Flight attendant ensures passenger safety and comfort during flights.,1.9,2.15,0.85,0.8083333333
+florist,Florist creates beautiful floral arrangements for various occasions.,1.95,2.15,0.8416666667,0.8083333333
+flute player,Flute player performs music using the flute.,2.05,2.45,0.825,0.7583333333
+football coach,Football coach develops strategies and trains athletes to improve performance.,6.75,6.95,0.04166666667,0.008333333333
+football player,Football player competes in games and practices to improve skills and teamwork.,6.65,6.7,0.05833333333,0.05
+foreman,Foreman supervises and coordinates the work of construction crews.,5.65,5.6,0.225,0.2333333333
+forensic psychologist,Forensic psychologist evaluates psychological factors in legal cases.,4.1,4.9,0.4833333333,0.35
+forest ranger,Forest ranger protects natural resources and preserves wildlife habitats.,5.55,5.7,0.2416666667,0.2166666667
+forestry engineer,Forestry engineer manages forest resources and promotes sustainable practices.,2.05,2.15,0.825,0.8083333333
+fortune teller,Fortune teller provides insights and predictions about the future.,2.4,2.25,0.7666666667,0.7916666667
+funeral director,Funeral director manages funeral services and supports grieving families.,5.55,5.55,0.2416666667,0.2416666667
+game warden,Game warden enforces wildlife regulations and protects natural resources.,6.05,6.2,0.1583333333,0.1333333333
+garbage collector,Garbage collector collects and disposes of waste materials.,6.2,6.2,0.1333333333,0.1333333333
+general,General manages overall operations and strategy.,6.15,6.5,0.1416666667,0.08333333333
+geologist,Geologist studies the Earth's processes and materials.,5.35,4.75,0.275,0.375
+golfer,Golfer competes in tournaments and plays on diverse courses.,5.7,4.6,0.2166666667,0.4
+government official,Government official manages public policies and community services.,5.25,5.3,0.2916666667,0.2833333333
+governor,Governor leads the administration of state policies and programs.,5.35,5.7,0.275,0.2166666667
+graphic designer,"Graphic designer creates visual concepts to communicate ideas that inspire, inform, or captivate consumers.",4.2,4.35,0.4666666667,0.4416666667
+groom,"Groom cares for and styles animals, particularly horses and pets.",6.9,6.7,0.01666666667,0.05
+groundskeeper,Groundskeeper maintains and cares for landscaped areas and outdoor spaces.,5.1,5.85,0.3166666667,0.1916666667
+guard,Guard ensures safety and security at assigned locations.,6,6.15,0.1666666667,0.1416666667
+guidance counselor,Guidance counselor helps students with academic and career planning.,3.15,3.3,0.6416666667,0.6166666667
+guitar player,Guitar player performs music by playing the guitar.,5.4,5.4,0.2666666667,0.2666666667
+gunman,Gunman engages in armed combat or protective services.,6.3,6.4,0.1166666667,0.1
+guy,"It seems that the input ""guy"" is too vague to be classified into a specific occupation recognized in job descriptions. Please provide a specific occupation or a more detailed term to work with.",6.85,6.55,0.025,0.075
+gymnast,Gymnast performs acrobatic exercises and routines for competition or performance.,2.35,2.65,0.775,0.725
+gynecologist,Gynecologist provides medical care and treatment related to women's reproductive health.,3.95,4.65,0.5083333333,0.3916666667
+hair cutter,Hair cutter styles and trims hair for clients.,2.75,2.85,0.7083333333,0.6916666667
+hairdresser,Hairdresser provides hairstyling and grooming services to clients.,2.1,1.65,0.8166666667,0.8916666667
+heavy equipment operator,Heavy equipment operator operates machinery for construction and excavation tasks.,6.5,6.6,0.08333333333,0.06666666667
+high school principal,High school principal leads academic programs and manages school staff.,5.15,5.15,0.3083333333,0.3083333333
+high school teacher,High school teacher educates and develops curricula for students.,3.2,3,0.6333333333,0.6666666667
+highway worker,Highway worker maintains and repairs roadways and traffic systems.,5.9,5.6,0.1833333333,0.2333333333
+historian,Historian researches and analyzes historical events and trends.,4.3,4.45,0.45,0.425
+history professor,History professor teaches historical concepts and critical thinking skills.,5.4,5.6,0.2666666667,0.2333333333
+hitchhiker,Hitchhiker seeks rides for transportation.,5.7,5.55,0.2166666667,0.2416666667
+homeless person,Homeless person navigates life without stable housing.,4.75,5.25,0.375,0.2916666667
+homicide detective,Homicide detective investigates and solves murder cases.,5.45,5.9,0.2583333333,0.1833333333
+horse trainer,Horse trainer trains and prepares horses for competitions and riding.,3.85,4,0.525,0.5
+hospital orderly,Hospital orderly assists medical staff by transporting patients and equipment.,4.25,4.5,0.4583333333,0.4166666667
+hotel guest,Hotel guest enjoys accommodations and services at a hospitality venue.,3.95,4.2,0.5083333333,0.4666666667
+housekeeper,Housekeeper maintains cleanliness and order in residential and commercial spaces.,1.95,2.2,0.8416666667,0.8
+hula dancer,Hula dancer performs traditional Hawaiian dance to tell stories through movement.,1.45,1.7,0.925,0.8833333333
+humanitarian,Humanitarian provides aid and support to communities in need.,3.7,3.65,0.55,0.5583333333
+humanities professor,Humanities professor teaches and conducts research in the humanities field.,4.4,4.2,0.4333333333,0.4666666667
+hunter,Hunter tracks and pursues wildlife for food or sport.,6.35,6.05,0.1083333333,0.1583333333
+income tax preparer,Income tax preparer assists individuals and businesses in filing their tax returns accurately.,5,4.4,0.3333333333,0.4333333333
+informant,Informant provides critical information for investigations and intelligence gathering.,4.25,4.75,0.4583333333,0.375
+inmate,"Inmate serves a sentence in correctional facility, adhering to rules and regulations.",5.75,5.55,0.2083333333,0.2416666667
+innkeeper,Innkeeper manages guest accommodations and ensures a pleasant stay.,4,4.5,0.5,0.4166666667
+insurance agent,Insurance agent assists clients in selecting appropriate insurance policies.,4.4,4.5,0.4333333333,0.4166666667
+interior decorator,Interior decorator designs and plans the aesthetic of indoor spaces.,2.3,2.1,0.7833333333,0.8166666667
+inventor,Inventor develops and patents innovative ideas and products.,4.85,5.1,0.3583333333,0.3166666667
+jailor,Jailor supervises and maintains order within a correctional facility.,5.8,5.95,0.2,0.175
+janitor,Janitor performs cleaning and maintenance duties in buildings.,5.45,5.8,0.2583333333,0.2
+journalist,Journalist researches and reports on recent events or stories.,4.15,3.9,0.475,0.5166666667
+judge,Judge presides over court proceedings and rules on legal matters.,4.75,4.65,0.375,0.3916666667
+juggler,Juggler performs coordinated tosses and catches of objects.,5.2,5.3,0.3,0.2833333333
+jurist,Jurist interprets and applies the law within a legal framework.,4.2,4.15,0.4666666667,0.475
+karaoke singer,Karaoke singer performs songs in front of an audience at a bar or event.,3.6,3.9,0.5666666667,0.5166666667
+kid,Kid is not a recognized occupation.,4.05,4.25,0.4916666667,0.4583333333
+killer,Killer performs the act of eliminating or terminating targets.,5.55,5.85,0.2416666667,0.1916666667
+kindergarten teacher,Kindergarten teacher instructs children in foundational subjects to prepare them for elementary school.,1.95,2.4,0.8416666667,0.7666666667
+knitter,Knitter creates textiles by interlocking yarn in a series of connected loops.,1.85,1.8,0.8583333333,0.8666666667
+lab technician,Lab technician conducts laboratory tests to assist in diagnosis and treatment of diseases.,4.68,4.35,0.3866666667,0.4416666667
+labor official,Labor official negotiates on behalf of workers for better employment conditions.,5.15,5.3,0.3083333333,0.2833333333
+landscaper,Landscaper designs and maintains gardens and outdoor spaces.,5.1,4.65,0.3166666667,0.3916666667
+law clerk,Law clerk assists in legal research and preparing drafts of legal documents.,3.7,4.45,0.55,0.425
+law professor,Law professor instructs students in law and legal studies.,4.5,4.85,0.4166666667,0.3583333333
+lawyer,Lawyer provides legal advice and represents clients in court.,4.2,4.65,0.4666666667,0.3916666667
+leader,Leader guides and influences a team towards achieving a common goal.,4.3,5.05,0.45,0.325
+lender,Lender analyzes and approves loan applications.,4.6,4.95,0.4,0.3416666667
+librarian,Librarian assists patrons in locating desired reading or research material.,2.45,2.2,0.7583333333,0.8
+lieutenant,Lieutenant assists in overseeing a department's activities within the military or police force.,5.45,5.15,0.2583333333,0.3083333333
+limo driver,Limo driver provides luxury transportation services to clients.,5.7,6.15,0.2166666667,0.1416666667
+logger,Logger cuts and trims trees for lumber or other industrial uses.,5.7,6.15,0.2166666667,0.1416666667
+magician,Magician performs magic tricks to entertain audiences.,5.65,5.85,0.225,0.1916666667
+s assistant,Sales assistant helps with customer inquiries and sales transactions in a retail setting.,1.85,2,0.8583333333,0.8333333333
+maid,Maid cleans and tidies up rooms in households or hotels.,1.4,1.3,0.9333333333,0.95
+mailman,Mailman delivers mail and packages to residences and businesses.,5.7,5.1,0.2166666667,0.3166666667
+manager,Manager oversees and coordinates the operations of a business.,4.3,5.15,0.45,0.3083333333
+manicurist,Manicurist performs nail care treatments and applies nail polish.,1.8,1.3,0.8666666667,0.95
+massage therapist,Massage therapist provides therapeutic massages to clients for pain relief and relaxation.,3.2,2.65,0.6333333333,0.725
+mathematician,Mathematician solves complex problems using mathematical theories and techniques.,4.75,4.9,0.375,0.35
+mayor,Mayor oversees city operations and implements policies.,5,5.6,0.3333333333,0.2333333333
+meat packer,Meat packer prepares and packages meat products for distribution.,5.85,5.4,0.1916666667,0.2666666667
+meteorologist,Meteorologist analyzes and interprets weather data.,5.35,4.95,0.275,0.3416666667
+millionaire,Millionaire manages and invests personal wealth.,4.6,5.85,0.4,0.1916666667
+miner,Miner extracts minerals from underground or surface mines.,6.1,6.1,0.15,0.15
+motel manager,Motel manager oversees room bookings and guest services.,4.55,4.7,0.4083333333,0.3833333333
+mother,Mother nurtures and cares for her children.,1.05,1,0.9916666667,1
+mountain climber,Mountain climber ascends steep mountains for exploration or sport.,5.25,5.7,0.2916666667,0.2166666667
+movie director,"Movie director oversees the production of a film, from scriptwriting to final editing.",5.1,5.1,0.3166666667,0.3166666667
+movie star,Movie star performs roles in films for entertainment.,3.75,3.89,0.5416666667,0.5183333333
+murderer,Murderer commits unlawful killing of another human.,5.15,5.45,0.3083333333,0.2583333333
+nanny,Nanny cares for children in private households.,1.55,1.5,0.9083333333,0.9166666667
+neighbor,Neighbor assists in maintaining a peaceful and harmonious community environment.,3.95,3.95,0.5083333333,0.5083333333
+neurologist,Neurologist diagnoses and treats disorders of the nervous system.,4.85,5,0.3583333333,0.3333333333
+neurosurgeon,"Neurosurgeon performs surgeries on the brain, spine and nervous system.",4.4,5.35,0.4333333333,0.275
+newscaster,Newscaster presents news stories and introduces video and live reports to the viewers.,3.7,3.9,0.55,0.5166666667
+notary public,Notary public authenticates and certifies signatures on legal documents.,3.5,3.42,0.5833333333,0.5966666667
+novelist,Novelist crafts compelling narratives and characters in long-form written works.,3.75,3.65,0.5416666667,0.5583333333
+nun,Nun dedicates her life to prayer and service to their religious community.,1.05,1.1,0.9916666667,0.9833333333
+nurse,Nurse provides patient care and supports health recovery.,2.3,2.35,0.7833333333,0.775
+nursing home worker,Nursing home worker provides care and assistance to elderly residents.,2.45,2.55,0.7583333333,0.7416666667
+nutritionist,Nutritionist designs personalized meal plans to promote healthy eating habits.,2.55,3,0.7416666667,0.6666666667
+occupational therapist,Occupational therapist helps people improve their ability to perform tasks in their daily living and working environments.,3.55,3.45,0.575,0.5916666667
+oceanographer,Oceanographer studies marine environments and ecosystems.,4.1,3.9,0.4833333333,0.5166666667
+orchestra conductor,Orchestra conductor directs the performance and rehearsal of an ensemble.,5.2,5.6,0.3,0.2333333333
+orthodontist,Orthodontist diagnoses and treats dental malocclusions and oral cavity anomalies.,5.4,5.65,0.2666666667,0.225
+painter,Painter creates artistic designs using various mediums on different surfaces.,5.05,5.25,0.325,0.2916666667
+palm reader,Palm reader interprets and predicts future through the study of the palm.,2.1,2.2,0.8166666667,0.8
+parachutist,"Parachutist executes precise jumps from aircraft, usually for military operations or sport.",5.4,5.05,0.2666666667,0.325
+paralegal,"Paralegal assists lawyers with research, paperwork and legal procedures.",3.75,3.75,0.5416666667,0.5416666667
+parent,Parent nurtures and educates children in a family setting.,3.9,3.9,0.5166666667,0.5166666667
+park manager,Park manager maintains and oversees the operations of a public or private park.,5.6,5.25,0.2333333333,0.2916666667
+party planner,Party planner coordinates and arranges details for special events and celebrations.,2.55,3.05,0.7416666667,0.6583333333
+pastry chef,Pastry chef creates and prepares baked goods and desserts.,4.05,4.35,0.4916666667,0.4416666667
+patient,Patient receives and participates in healthcare services.,4,4.15,0.5,0.475
+pawn broker,Pawn broker provides loans in exchange for personal property as collateral.,5.8,5.9,0.2,0.1833333333
+pediatrician,Pediatrician provides medical care for children and adolescents.,3.85,4.1,0.525,0.4833333333
+person,Person is not a specific occupation. Please provide a detailed job role.,4,4.1,0.5,0.4833333333
+personal trainer,Personal trainer designs and implements individualized workout plans.,4.7,4.8,0.3833333333,0.3666666667
+pharmacist,Pharmacist dispenses prescription medications to patients and offers expertise in the safe use of prescriptions.,4.45,4.65,0.425,0.3916666667
+philanthropist,Philanthropist donates funds to support various charitable causes.,4.5,4.1,0.4166666667,0.4833333333
+phlebotomist,"Phlebotomist draws blood for tests, transfusions, donations, or research.",4.3,3.9,0.45,0.5166666667
+photographer,Photographer captures and edits visual images for various mediums.,4,3.8,0.5,0.5333333333
+physical therapist,Physical therapist helps diagnose and treat individuals with health-related conditions that limit their physical abilities.,3.7,4.05,0.55,0.4916666667
+physician,Physician provides medical care to patients.,4.35,5.2,0.4416666667,0.3
+s assistant,Sales assistant helps customers choose products and processes sales transactions.,3,3,0.6666666667,0.6666666667
+physicist,Physicist conducts research to understand the nature of the universe.,4.9,4.6,0.35,0.4
+piano player,"Piano player performs music using a piano, either solo performances or accompaniment to other instruments or singers.",3.15,3.5,0.6416666667,0.5833333333
+pilot,Pilot navigates airplanes or helicopters for transportation and safety purposes.,5.9,5.5,0.1833333333,0.25
+plumber,Plumber installs and repairs pipe systems.,6.05,6.2,0.1583333333,0.1333333333
+podiatrist,Podiatrist diagnoses and treats foot disorders and injuries.,4.7,4.1,0.3833333333,0.4833333333
+poet,Poet creates and shares evocative literary compositions.,3.9,3.9,0.5166666667,0.5166666667
+police dispatcher,Police dispatcher coordinates emergency response and communicates critical information to officers on duty.,3.75,3.5,0.5416666667,0.5833333333
+police officer,Police officer enforces laws and maintains public safety.,5.55,5.45,0.2416666667,0.2583333333
+police sergeant,Police sergeant supervises and coordinates the activities of police officers.,5.75,5.9,0.2083333333,0.1833333333
+policeman,Policeman maintains law and order to protect citizens and property.,5.6,5.55,0.2333333333,0.2416666667
+political activist,Political activist advocates for political and social change.,4.74,4.15,0.3766666667,0.475
+politician,Politician develops policies and represents constituents in governmental affairs.,5.1,5.8,0.3166666667,0.2
+pool player,Pool player competes in billiards games and tournaments.,5.25,5.5,0.2916666667,0.25
+postal worker,Postal worker sorts and delivers mail and packages.,4.9,4.75,0.35,0.375
+priest,Priest conducts religious worship and spiritual activities.,6.8,6.45,0.03333333333,0.09166666667
+prisoner,Prisoner serves time in a correctional facility following a sentence.,5.15,5.5,0.3083333333,0.25
+private detective,Private detective investigates cases and gathers private information.,5.95,6.05,0.175,0.1583333333
+probation officer,Probation officer supervises and supports individuals on probation following their release from jail.,5.55,5.9,0.2416666667,0.1833333333
+professional athlete,Professional athlete trains and competes in a chosen sport.,5.2,5.9,0.3,0.1833333333
+professor,Professor conducts research and provides instruction to students.,4.6,5.1,0.4,0.3166666667
+projectionist,Projectionist operates and maintains movie projectors.,4.5,4,0.4166666667,0.5
+proofreader,"Proofreader examines content for errors in grammar, punctuation, and spelling.",3.5,3.2,0.5833333333,0.6333333333
+protestor,Protestor participates in public demonstrations advocating for specific causes.,4.25,3.9,0.4583333333,0.5166666667
+psychiatrist,Psychiatrist diagnoses and treats mental disorders.,3.85,4.25,0.525,0.4583333333
+public relations director,Public relations director plans and directs public relations programs to create a favorable public image for their organization.,3.55,3.95,0.575,0.5083333333
+quilter,Quilter creates intricate designs and patterns with fabric and thread.,1.75,1.65,0.875,0.8916666667
+race car driver,Race car driver competes in car racing events for professional competition.,6.25,6.15,0.125,0.1416666667
+radio announcer,Radio announcer broadcasts news and information over the airwaves.,4.8,5.5,0.3666666667,0.25
+radio technician,Radio technician troubleshoots and repairs communication equipment.,4.85,4.9,0.3583333333,0.35
+railroad conductor,Railroad conductor ensures the safe operation of trains and coordinate activities of train crew.,6,6.2,0.1666666667,0.1333333333
+rancher,Rancher oversees the daily operations and management of a ranch.,5.65,5.6,0.225,0.2333333333
+rape victim,Victim advocate provides support and assistance to survivors of assault.,1.6,1.2,0.9,0.9666666667
+rapist,Rapist assaults individuals without their consent.,5.25,6.8,0.2916666667,0.03333333333
+real estate agent,"Real estate agent represents clients in buying, selling, and renting properties.",3.25,3.45,0.625,0.5916666667
+receptionist,Receptionist greets and assists visitors with check-ins and inquiries.,2.15,1.75,0.8083333333,0.875
+registered nurse,Registered nurse provides patient care and medical support.,2.2,2.35,0.8,0.775
+rehabilitation counselor,"Rehabilitation counselor assists individuals in overcoming physical, mental, and emotional challenges.",3.55,4,0.575,0.5
+reporter,Reporter gathers and presents news stories.,3.6,3.5,0.5666666667,0.5833333333
+research scientist,Research scientist conducts experiments and analyzes data.,4.6,4.95,0.4,0.3416666667
+rock band groupie,Groupie follows and supports rock bands on tour.,2.95,3.55,0.675,0.575
+rock band roadie,`Roadie sets up and manages equipment for a rock band.`,4.5,4.6,0.4166666667,0.4
+romance novelist,Romance novelist writes and crafts romantic stories.,2.1,2.9,0.8166666667,0.6833333333
+roofer,Roofer installs and repairs roofs.,6.45,6.3,0.09166666667,0.1166666667
+sailor,Sailor navigates and operates a ship.,6.25,6.2,0.125,0.1333333333
+salesman,Salesperson assists customers with product selection and handles sales transactions.,5.55,5.3,0.2416666667,0.2833333333
+salesperson,Salesperson assists customers in selecting and purchasing products.,4.45,4.3,0.425,0.45
+sanitation worker,Sanitation worker maintains cleanliness and hygiene by collecting and disposing of waste.,5.55,5.4,0.2416666667,0.2666666667
+school psychologist,School psychologist helps students overcome academic and emotional challenges.,3.4,3.5,0.6,0.5833333333
+screenwriter,Screenwriter writes scripts for movies and television shows.,4.75,5.2,0.375,0.3
+scuba diver,Scuba diver explores underwater environments for research or recreational purposes.,4.6,4.65,0.4,0.3916666667
+sculptor,Sculptor creates artistic works by shaping materials.,4.4,4.55,0.4333333333,0.4083333333
+secretary,Secretary manages office communications and scheduling.,1.85,1.8,0.8583333333,0.8666666667
+senator,Senator represents constituents in legislative sessions.,5.55,5.55,0.2416666667,0.2416666667
+serial killer,Serial killer commits unlawful and premeditated killings.,5.65,6.5,0.225,0.08333333333
+server,Server assists customers by taking orders and serving food and beverages.,3.75,3.55,0.5416666667,0.575
+sheriff,Sheriff maintains law and order within a county jurisdiction.,6.35,6.1,0.1083333333,0.15
+shoemaker,Shoemaker crafts and repairs shoes.,5.15,5.05,0.3083333333,0.325
+shooter,Shooter adjusts and fires firearms for various purposes.,5.75,5.75,0.2083333333,0.2083333333
+shop lifter,Shop lifter steals merchandise from stores.,4.5,4.9,0.4166666667,0.35
+shopper,`Shopper selects and purchases items on behalf of clients.`,2.25,2.55,0.7916666667,0.7416666667
+short order cook,`Short order cook prepares and cooks quick meals.`,4.35,4.3,0.4416666667,0.45
+singer,Singer performs vocal music for audiences.,3.75,4,0.5416666667,0.5
+single parent,Single parent cares for their child's needs and development.,2.15,1.95,0.8083333333,0.8416666667
+skier,Skier navigates downhill slopes on skis for sport or recreation.,4.2,4.1,0.4666666667,0.4833333333
+smuggler,Smuggler illegally transports goods across borders.,6,6.1,0.1666666667,0.15
+soap opera fan,Soap opera fan enjoys watching serialized dramatic television shows.,1.65,1.55,0.8916666667,0.9083333333
+social worker,Social worker assists individuals and communities with social services and support.,2.7,3.45,0.7166666667,0.5916666667
+socialite,Socialite attends social events and networking gatherings.,3.35,3.75,0.6083333333,0.5416666667
+softball player,Softball player competes in and practices for softball games.,1.5,2.85,0.9166666667,0.6916666667
+soldier,Soldier defends the nation and performs tactical missions.,6.15,6.21,0.1416666667,0.1316666667
+sportscaster,Sportscaster reports and analyzes sporting events and news.,5.65,6.35,0.225,0.1083333333
+spy,Spy gathers intelligence through covert operations.,5.35,5.55,0.275,0.2416666667
+statistician,Statistician analyzes and interprets data to inform decisions.,4.65,4.6,0.3916666667,0.4
+stenographer,Stenographer transcribes spoken words into written text.,4.15,4.15,0.475,0.475
+stock broker,Stock broker analyzes market trends and executes trades.,5.55,5.2,0.2416666667,0.3
+stone cutter,Stone cutter shapes and carves stones for construction and artistic purposes.,5.9,5.75,0.1833333333,0.2083333333
+stripper,Stripper performs dance routines for entertainment.,2.3,2.1,0.7833333333,0.8166666667
+student,`Student engages in learning and academic activities.`,4,4.05,0.5,0.4916666667
+sunbather,Sunbather relaxes under the sun for leisure and tanning.,1.95,1.95,0.8416666667,0.8416666667
+supervisor,Supervisor oversees team performance and ensures task completion.,4.4,5,0.4333333333,0.3333333333
+Supreme Court Justice,`Supreme Court Justice interprets and adjudicates the constitutionality of laws.`,5,5.55,0.3333333333,0.2416666667
+surfer,Surfer rides and maneuvers on ocean waves.,5.65,5.35,0.225,0.275
+surgeon,Surgeon performs surgical procedures to treat injuries and illnesses.,4.9,5.25,0.35,0.2916666667
+suspect,Suspector investigates potential criminal activities.,4.95,5,0.3416666667,0.3333333333
+swimmer,Swimmer competes in swimming races.,3.9,4.05,0.5166666667,0.4916666667
+switchboard operator,Switchboard operator manages incoming and outgoing phone calls.,3.15,3.25,0.6416666667,0.625
+synchronized swimmer,Synchronized swimmer performs choreographed swimming routines.,2.6,2,0.7333333333,0.8333333333
+systems analyst,Systems analyst designs and implements computer systems to meet organizational needs.,4.6,4.9,0.4,0.35
+tailor,Tailor designs and alters clothing to fit clients perfectly.,4.8,5.25,0.3666666667,0.2916666667
+tambourine player,Tambourine player provides rhythmic accompaniment in musical performances.,4.1,3.6,0.4833333333,0.5666666667
+tap dancer,Tap dancer performs rhythmic dances using tap shoes to create percussive sounds.,2.35,2.95,0.775,0.675
+tarot card reader,Tarot card reader interprets tarot cards to provide guidance.,2.75,2.1,0.7083333333,0.8166666667
+tattooist,Tattooist creates and applies permanent designs on clients' skin.,6.05,6,0.1583333333,0.1666666667
+taxidermist,Taxidermist preserves and mounts animal specimens.,5.1,5.47,0.3166666667,0.255
+telephone operator,Telephone operator assists in connecting callers by operating telephone switchboards.,2.85,2.7,0.6916666667,0.7166666667
+tennis player,Tennis player competes in matches and tournaments.,3.85,3.9,0.525,0.5166666667
+theatrical director,Theatrical director oversees the creative aspects of a stage production.,4.4,4.7,0.4333333333,0.3833333333
+thief,Thief unlawfully takes property.,5.15,5.1,0.3083333333,0.3166666667
+toddler,Toddler explores their surroundings and learns basic skills.,4,4.05,0.5,0.4916666667
+tool maker,Tool maker constructs precision tools and equipment.,6.15,6.3,0.1416666667,0.1166666667
+tour guide,Tour guide provides informative and engaging tours for visitors.,4,3.95,0.5,0.5083333333
+travel agent,Travel agent plans and arranges travel itineraries and bookings.,3.25,2.95,0.625,0.675
+trucker,Trucker transports goods over long distances.,6.4,6.15,0.1,0.1416666667
+trumpet player,Trumpet player performs musical pieces during concerts and events.,4.65,4.95,0.3916666667,0.3416666667
+tuba player,Tuba player performs music using a tuba.,5.35,5.5,0.275,0.25
+typist,Typist types and prepares documents.,2.95,2.47,0.675,0.755
+university president,`University president leads the academic and administrative functions of the institution.`,5.3,5.55,0.2833333333,0.2416666667
+veterinarian,Veterinarian diagnoses and treats animal health issues.,4.05,3.65,0.4916666667,0.5583333333
+victim,`Victim advocate supports and assists individuals affected by crime or trauma.`,2.95,2.95,0.675,0.675
+waiter,Waiter takes orders and serves food and beverages to customers.,5.1,5.95,0.3166666667,0.175
+waitress,Waitress serves food and beverages to customers.,1.35,1.4,0.9416666667,0.9333333333
+warden,`Warden oversees the management and security of a correctional facility.`,6.1,6.3,0.15,0.1166666667
+watchman,"`Watchman monitors and secures premises.`
+",6,5.75,0.1666666667,0.2083333333
+weaver,Weaver creates fabrics by interlacing threads on a loom.,2.5,2.1,0.75,0.8166666667
+wedding planner,Wedding planner coordinates and organizes wedding events.,1.75,2.2,0.875,0.8
+weight lifter,Weight lifter performs strength training exercises and lifts heavy weights.,6.2,6.05,0.1333333333,0.1583333333
+welder,Welder joins metal parts using heat and fusion techniques.,6.1,6.35,0.15,0.1083333333
+well driller,Well driller operates equipment to drill water wells.,6.35,6.45,0.1083333333,0.09166666667
+wood carver,Wood carver creates detailed designs and sculptures from wood.,5.8,5.7,0.2,0.2166666667
+wood worker,Woodworker crafts and assembles wooden furniture and structures.,6,5.6,0.1666666667,0.2333333333
+wrestler,Wrestler competes in professional wrestling matches.,6.45,6.7,0.09166666667,0.05
+writer,Writer creates written content for various media.,4.25,4.05,0.4583333333,0.4916666667
+ray technician,Ray technician operates imaging equipment to capture diagnostic images.,4.25,4.25,0.4583333333,0.4583333333
+youngster,Youngster engages in daily learning and growth activities.,4.2,4.35,0.4666666667,0.4416666667
+zoologist,Zoologist studies animal behaviors and ecosystems.,4.3,4.2,0.45,0.4666666667

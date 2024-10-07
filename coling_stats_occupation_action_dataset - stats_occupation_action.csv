@@ -1,0 +1,317 @@
+Occupation,P(female),Occupation_action
+chief executives,0.306,Chief executive directs the overall operations and strategic planning of an organization.
+general and operations managers,0.371,General and operations manager coordinates daily operations and oversees staff.
+marketing managers,0.624,Marketing manager develops and implements marketing strategies.
+sales managers,0.331,Sales manager leads and directs a sales team to meet targets and goals.
+public relations and fundraising managers,0.664,Public relations and fundraising manager develops and implements strategies to enhance public image and raise funds.
+administrative services managers,0.74,Administrative services manager coordinates and oversees administrative activities.
+facilities managers,0.234,Facilities manager supervises maintenance and operations of facilities.
+computer and information systems managers,0.277,Computer and information systems manager coordinates and oversees computer systems within an organization.
+financial managers,0.562,Financial manager oversees budgeting and financial planning.
+human resources managers,0.765,"Human resources manager coordinates recruitment, hiring, and employee relations."
+training and development managers,0.48,Training and development manager designs and implements employee training programs.
+industrial production managers,0.191,Industrial production manager coordinates and oversees daily operations in manufacturing plants.
+purchasing managers,0.477,Purchasing manager coordinates the procurement of goods and services.
+"transportation, storage, and distribution managers",0.214,Transportation manager coordinates transportation activities and plans storage and distribution operations.
+construction managers,0.106,Construction manager supervises and coordinates construction projects.
+education and childcare administrators,0.686,Education and childcare administrator coordinates administrative tasks and oversees educational programs.
+architectural and engineering managers,0.128,Architectural and engineering manager directs and coordinates activities in architectural and engineering firms.
+food service managers,0.467,Food service manager coordinates and oversees food service operations.
+entertainment and recreation managers,0.501,Entertainment and recreation manager coordinates and supervises various entertainment and recreational activities.
+lodging managers,0.616,Lodging manager oversees daily operations and guest services at a hotel or lodging establishment.
+medical and health services managers,0.718,Medical and health services manager coordinates and oversees healthcare facility operations.
+"property, real estate, and community association managers",0.517,Real estate manager oversees property maintenance and tenant relations.
+social and community service managers,0.717,Social and community service manager coordinates and supervises community outreach programs.
+"agents and business managers of artists, performers, and athletes",0.433,"Agent guides the careers and opportunities of artists, performers, and athletes."
+"wholesale and retail buyers, except farm products",0.576,Wholesale and retail buyer selects and purchases products for resale in stores or online markets.
+"purchasing agents, except wholesale, retail, and farm products",0.519,Purchasing agent secures goods and services for the organization.
+"claims adjusters, appraisers, examiners, and investigators",0.552,Claims adjuster investigates insurance claims to determine coverage and settlements.
+compliance officers,0.518,Compliance officer ensures adherence to regulations and company policies.
+cost estimators,0.177,Cost estimator calculates and assesses the total expenses for a project.
+human resources workers,0.765,Human resources worker facilitates recruitment and employee relations within an organization.
+"compensation, benefits, and job analysis specialists",0.782,Compensation and benefits specialist evaluates employee compensation packages and benefits.
+training and development specialists,0.567,Training and development specialist designs and implements training programs for employees.
+logisticians,0.387,Logistician coordinates and analyzes logistical functions.
+project management specialists,0.473,Project management specialist coordinates project tasks and ensures timely completion.
+management analysts,0.466,Management analyst evaluates company operations to identify areas for improvement.
+"meeting, convention, and event planners",0.692,"Meeting planner coordinates and organizes meetings, conventions, and events."
+fundraisers,0.749,Fundraiser solicits donations and funds for an organization or cause.
+market research analysts and marketing specialists,0.617,Market research analyst conducts market research and analyzes consumer behavior.
+accountants and auditors,0.57,Accountant prepares and examines financial records.
+property appraisers and assessors,0.342,Property appraiser inspects properties and determines their value.
+financial and investment analysts,0.439,Financial and investment analyst assesses investment opportunities and analyzes financial data.
+personal financial advisors,0.326,Personal financial advisor provides financial advice and investment recommendations.
+insurance underwriters,0.569,Insurance underwriter evaluates insurance applications and determines coverage risks.
+credit counselors and loan officers,0.516,Credit counselor advises individuals on credit management and financial planning.
+"tax examiners and collectors, and revenue agents",0.608,Tax examiner reviews tax returns and collects owed revenues.
+tax preparers,0.663,Tax preparer compiles and organizes financial information for tax filing.
+computer systems analysts,0.378,Computer systems analyst assesses and designs information systems to optimize efficiency.
+information security analysts,0.193,Information security analyst monitors and safeguards an organization's data and information systems.
+computer programmers,0.215,Computer programmer writes and debugs code for software applications.
+software developers,0.202,Software developer designs and develops software applications.
+software quality assurance analysts and testers,0.441,Software quality assurance analyst ensures the software meets quality standards through testing and analysis.
+web developers,0.194,Web developer designs and creates websites and web applications.
+web and digital interface designers,0.427,Web and digital interface designer creates user-friendly and visually appealing websites and digital interfaces.
+computer support specialists,0.262,Computer support specialist troubleshoots technical issues and provides assistance with computer systems.
+database administrators and architects,0.308,"Database administrator designs, implements, and maintains database systems."
+network and computer systems administrators,0.167,Network and computer systems administrator maintains and troubleshoots network and computer systems.
+computer network architects,0.077,Computer network architect designs and implements network systems for organizations.
+operations research analysts,0.55,Operations research analyst evaluates data to help organizations make informed decisions.
+"architects, except landscape and naval",0.31,Architect designs and oversees construction projects.
+aerospace engineers,0.152,Aerospace engineer designs and develops aircraft and spacecraft.
+chemical engineers,0.216,Chemical engineer designs and develops processes for chemical manufacturing.
+civil engineers,0.169,Civil engineer designs and oversees the construction of infrastructure projects.
+computer hardware engineers,0.059,Computer hardware engineer designs and develops computer components and systems.
+electrical and electronics engineers,0.116,Electrical and electronics engineer designs and develops electrical systems.
+"industrial engineers, including health and safety",0.246,Industrial engineer designs systems to optimize production processes and ensure workplace health and safety.
+materials engineers,0.135,Materials engineer tests and develops materials for various applications.
+mechanical engineers,0.101,`Mechanical engineer designs and analyzes mechanical systems.`
+electrical and electronic engineering technologists and technicians,0.116,Electrical and electronic engineering technologist troubleshoots and repairs electrical systems and equipment.
+surveying and mapping technicians,0.12,Surveying and mapping technician assists in collecting and analyzing geographic data.
+biological scientists,0.55,Biological scientist conducts research and experiments in the field of biology.
+medical scientists,0.518,Medical scientist conducts research to improve human health outcomes.
+chemists and materials scientists,0.36,Chemist analyzes substances and conducts experiments to develop new materials.
+school psychologists,0.879,School psychologist evaluates students' academic and emotional needs.
+miscellaneous social scientists and related workers,0.539,Miscellaneous social scientist conducts research on various social phenomena and trends.
+chemical technicians,0.35,Chemical technician conducts experiments and analyzes data.
+occupational health and safety specialists and technicians,0.179,Occupational health and safety specialist conducts workplace safety inspections and provides safety training.
+substance abuse and behavioral disorder counselors,0.781,Substance abuse and behavioral disorder counselor provides therapy and support for individuals struggling with addiction and behavioral issues.
+"educational, guidance, and career counselors and advisors",0.792,Educational counselor provides guidance on academic and career choices.
+mental health counselors,0.746,Mental health counselor provides counseling and support to individuals experiencing mental health issues.
+"child, family, and school social workers",0.881,Child social worker provides support and counseling to children in need.
+healthcare social workers,0.779,Healthcare social worker provides emotional support and resources to patients in medical settings.
+probation officers and correctional treatment specialists,0.574,Probation officer supervises and provides guidance to individuals on probation.
+social and human service assistants,0.753,Social and human service assistant provides support and assistance to individuals in need.
+clergy,0.214,Clergy leads religious services and provides spiritual guidance.
+"directors, religious activities and education",0.673,Director of religious activities leads and oversees educational programs and religious activities.
+lawyers,0.395,Lawyer provides legal advice and representation.
+paralegals and legal assistants,0.83,Paralegal organizes and prepares legal documents for attorneys.
+"title examiners, abstractors, and searchers",0.655,Title examiner conducts research to verify the legal ownership of a property.
+postsecondary teachers,0.466,Postsecondary teacher educates and mentors college students.
+preschool and kindergarten teachers,0.967,Preschool and kindergarten teacher nurtures young children's social and academic development.
+elementary and middle school teachers,0.786,Elementary and middle school teacher educates and mentors students in various subjects.
+secondary school teachers,0.569,Secondary school teacher educates students in specific subjects at the secondary level.
+special education teachers,0.866,Special education teacher provides individualized instruction and support for students with special needs.
+tutors,0.704,Tutor assists students in understanding academic subjects and improving their learning skills.
+"archivists, curators, and museum technicians",0.632,Archivist maintains and organizes historical documents and records.
+librarians and media collections specialists,0.825,Librarian organizes and manages library resources.
+teaching assistants,0.795,Teaching assistant supports classroom instruction and helps students with assignments.
+artists and related workers,0.516,Artist creates visual art pieces using various techniques and mediums.
+floral designers,0.891,Floral designer arranges flowers and decorative elements.
+graphic designers,0.547,"Graphic designer creates visual concepts to communicate ideas that inspire, inform, or captivate consumers."
+interior designers,0.853,Interior designer creates visually appealing and functional indoor spaces.
+actors,0.47,Actor performs scripted scenes and portrays characters on stage or in front of a camera.
+producers and directors,0.436,Producer supervises the production process of films or TV shows.
+coaches and scouts,0.409,Coach plans and directs athletic activities for individuals or teams.
+musicians and singers,0.271,Musician performs music with instruments or vocals.
+"news analysts, reporters, and journalists",0.513,News analyst researches and analyzes current events for media presentation.
+public relations specialists,0.762,Public relations specialist develops and implements communication strategies to maintain a positive public image.
+editors,0.566,Editor revises and refines written content.
+writers and authors,0.538,Writer creates written content for various purposes.
+interpreters and translators,0.744,Interpreter conveys spoken messages between languages.
+"broadcast, sound, and lighting technicians",0.122,Broadcast technician operates and maintains audiovisual equipment for events and productions.
+photographers,0.485,Photographer captures memorable moments through skilled photography techniques.
+"television, video, and film camera operators and editors",0.188,"Television, video, and film camera operator captures and edits visual footage."
+chiropractors,0.411,Chiropractor aligns and adjusts the spine to improve overall health.
+dentists,0.395,Dentist examines and treats diseases of the teeth and gums.
+dietitians and nutritionists,0.863,Dietitian creates personalized nutrition plans for individuals.
+pharmacists,0.578,Pharmacist dispenses medication and provides patient consultation.
+surgeons,0.2,Surgeon performs surgical procedures to treat injuries and illnesses.
+physician assistants,0.688,Physician assistant diagnoses and treats illnesses alongside a physician.
+occupational therapists,0.886,Occupational therapist helps patients develop or recover the skills needed for daily living and working.
+physical therapists,0.675,Physical therapist helps patients with physical injuries regain movement and manage pain.
+respiratory therapists,0.624,Respiratory therapist assists patients with breathing difficulties and provides respiratory care.
+speech-language pathologists,0.943,Speech-language pathologist assesses and treats communication and swallowing disorders.
+veterinarians,0.691,"Veterinarian examines, diagnoses, and treats animals."
+registered nurses,0.874,Registered nurse provides medical care and treatment to patients.
+nurse practitioners,0.898,Nurse practitioner diagnoses and treats medical conditions.
+clinical laboratory technologists and technicians,0.763,Clinical laboratory technologist conducts medical tests and analyzes results.
+dental hygienists,0.957,Dental hygienist performs teeth cleaning and examination.
+diagnostic medical sonographers,0.761,Diagnostic medical sonographer uses ultrasound equipment to produce images of patients' internal organs.
+radiologic technologists and technicians,0.703,Radiologic technologist performs diagnostic imaging procedures using medical equipment.
+emergency medical technicians,0.394,Emergency medical technician responds to medical emergencies and provides immediate medical care.
+paramedics,0.295,Paramedic provides emergency medical care and transportation to individuals in need.
+pharmacy technicians,0.793,Pharmacy technician assists pharmacists in dispensing medications and managing inventory.
+psychiatric technicians,0.695,Psychiatric technician assists in the care and treatment of individuals with mental health conditions.
+surgical technologists,0.769,Surgical technologist assists surgeons during surgical procedures.
+veterinary technologists and technicians,0.899,Veterinary technologist assists veterinarians in providing medical care to animals.
+dietetic technicians and ophthalmic medical technicians,0.737,Dietetic technician assists in preparing and providing nutritional meals.
+licensed practical and licensed vocational nurses,0.887,Licensed practical and licensed vocational nurse administers medications and provides basic patient care.
+medical records specialists,0.889,Medical records specialist organizes and maintains patient medical records.
+miscellaneous health technologists and technicians,0.727,Health technologist conducts various medical tests and procedures.
+home health aides,0.872,Home health aide assists clients with daily activities and personal care.
+personal care aides,0.798,Personal care aide assists individuals with daily personal tasks and hygiene needs.
+nursing assistants,0.901,Nursing assistant assists patients with daily activities and provides basic care.
+orderlies and psychiatric aides,0.535,Orderly assists medical staff in maintaining cleanliness and orderliness in healthcare facilities.
+physical therapist assistants and aides,0.687,Physical therapist assistant aids in patient rehabilitation exercises and therapy.
+massage therapists,0.837,Massage therapist provides massages to clients for relaxation and pain relief.
+dental assistants,0.928,Dental assistant helps dentists with patient care and office tasks.
+medical assistants,0.888,Medical assistant helps healthcare providers with patient care and administrative tasks.
+veterinary assistants and laboratory animal caretakers,0.796,Veterinary assistant provides care and support to animals in veterinary settings.
+phlebotomists,0.903,Phlebotomist collects blood samples from patients for medical testing.
+first-line supervisors of correctional officers,0.359,First-line supervisor of correctional officers directs and oversees the activities of correctional officers.
+first-line supervisors of police and detectives,0.105,First-line supervisor of police directs and coordinates police and detective activities.
+first-line supervisors of firefighting and prevention workers,0.061,First-line supervisor of firefighting and prevention workers directs and coordinates firefighting activities.
+first-line supervisors of security workers,0.225,First-line supervisor of security workers manages and supervises security personnel.
+firefighters,0.039,Firefighter responds to emergency situations and extinguishes fires.
+correctional officers and jailers,0.339,Correctional officer supervises inmates and maintains order in correctional facilities.
+detectives and criminal investigators,0.263,Detective investigates crimes and gathers evidence.
+police officers,0.144,Police officer upholds law and ensures public safety.
+private detectives and investigators,0.43,Private detective conducts investigations and gathers evidence.
+security guards and gambling surveillance officers,0.249,Security guard monitors and patrols premises to prevent theft and violence.
+crossing guards and flaggers,0.558,Crossing guard ensures the safety of pedestrians at road crossings.
+chefs and head cooks,0.233,Chef creates and prepares delicious dishes for customers.
+first-line supervisors of food preparation and serving workers,0.535,First-line supervisor of food preparation and serving workers directs and coordinates activities of food service staff.
+cooks,0.398,Cook prepares and cooks food dishes.
+food preparation workers,0.587,Food preparation worker assists in preparing ingredients and assembling dishes.
+bartenders,0.508,Bartender mixes and serves drinks to customers.
+fast food and counter workers,0.663,Fast food worker prepares and serves food in a quick-service restaurant.
+waiters and waitresses,0.688,Waiter assists customers with menu selections and serves food and beverages.
+"food servers, nonrestaurant",0.692,Food server delivers food and beverages in a non-restaurant setting.
+dining room and cafeteria attendants and bartender helpers,0.433,Dining room and cafeteria attendant ensures cleanliness and organization in the dining area.
+dishwashers,0.231,Dishwasher cleans and sanitizes dishes and kitchen utensils.
+"hosts and hostesses, restaurant, lounge, and coffee shop",0.865,"Hostess greets and seats guests in a restaurant, lounge, or coffee shop."
+first-line supervisors of housekeeping and janitorial workers,0.441,First-line supervisor of housekeeping and janitorial workers directs and coordinates cleaning activities of staff.
+"first-line supervisors of landscaping, lawn service, and groundskeeping workers",0.08,First-line supervisor of landscaping ensures proper maintenance of outdoor grounds and landscapes.
+janitors and building cleaners,0.387,Janitor maintains cleanliness and tidiness in buildings.
+maids and housekeeping cleaners,0.884,Maid maintains cleanliness and tidiness within a household.
+pest control workers,0.051,Pest control worker inspects and treats buildings for pests.
+landscaping and groundskeeping workers,0.073,Landscaping and groundskeeping worker maintains and cares for outdoor landscapes.
+tree trimmers and pruners,0.03,Tree trimmer prunes and trims trees to maintain healthy growth.
+supervisors of personal care and service workers,0.658,Supervisor of personal care and service workers coordinates and oversees daily activities of caregiving staff.
+animal trainers,0.691,Animal trainer teaches animals various commands and behaviors.
+animal caretakers,0.76,Animal caretaker ensures the well-being and health of animals in their care.
+gambling services workers,0.402,Gambling services worker assists patrons with gaming activities and payouts.
+barbers,0.284,Barber trims and styles hair for clients.
+"hairdressers, hairstylists, and cosmetologists",0.921,Hairdresser styles and cuts hair to enhance clients' appearance.
+manicurists and pedicurists,0.835,Manicurist enhances the appearance of nails through manicures and pedicures.
+skincare specialists,0.99,Skincare specialist provides customized skincare treatments and recommendations.
+"baggage porters, bellhops, and concierges",0.291,Bellhop assists hotel guests with luggage and room accommodations.
+tour and travel guides,0.482,Tour and travel guide assists travelers with exploring destinations and providing information during tours.
+childcare workers,0.938,Childcare worker nurtures and supervises children in a daycare or preschool setting.
+exercise trainers and group fitness instructors,0.567,Exercise trainer designs personalized workout routines and provides fitness guidance.
+recreation workers,0.589,Recreation worker organizes and leads recreational activities for individuals and groups.
+first-line supervisors of retail sales workers,0.446,First-line supervisor of retail sales worker directs and supervises sales staff in a retail setting.
+first-line supervisors of non-retail sales workers,0.359,First-line supervisor of non-retail sales workers directs and coordinates sales activities.
+cashiers,0.698,Cashier handles transactions and assists customers at checkout.
+counter and rental clerks,0.387,Counter and rental clerk assists customers with equipment rentals and returns.
+parts salespersons,0.229,Parts salesperson assists customers in finding and purchasing the right parts for their vehicles or equipment.
+retail salespersons,0.492,Retail salesperson assists customers with product selection and purchases.
+advertising sales agents,0.527,Advertising sales agent sells advertising space to clients.
+insurance sales agents,0.549,Insurance sales agent promotes and sells various types of insurance policies.
+"securities, commodities, and financial services sales agents",0.246,"Securities sales agent sells stocks, bonds, and other financial products."
+travel agents,0.797,Travel agent assists clients in booking travel arrangements and accommodations.
+"sales representatives of services, except advertising, insurance, financial services, and travel",0.316,Sales representative of services promotes and sells various service offerings to potential clients.
+"sales representatives, wholesale and manufacturing",0.279,Sales representative negotiates contracts and builds relationships with clients.
+real estate brokers and sales agents,0.57,"Real estate broker assists clients with buying, selling, and renting properties."
+"door-to-door sales workers, news and street vendors, and related workers",0.543,Door-to-door sales worker sells products directly to customers at their doorstep.
+first-line supervisors of office and administrative support workers,0.658,First-line supervisor of office and administrative support workers directs and coordinates activities of clerical and administrative staff.
+bill and account collectors,0.712,Bill and account collector contacts customers to collect overdue payments.
+billing and posting clerks,0.914,Billing and posting clerk processes invoices and posts financial transactions.
+"bookkeeping, accounting, and auditing clerks",0.862,Bookkeeping clerk maintains financial records and transactions.
+payroll and timekeeping clerks,0.882,Payroll and timekeeping clerk maintains accurate records of employee work hours and processes payroll.
+tellers,0.789,Teller processes financial transactions and assists customers with their banking needs.
+"court, municipal, and license clerks",0.719,Court clerk maintains court records and assists with legal paperwork.
+customer service representatives,0.653,Customer service representative assists customers with inquiries and issue resolution.
+"eligibility interviewers, government programs",0.797,Eligibility interviewer verifies applicant qualifications for government programs.
+file clerks,0.76,File clerk organizes and maintains company documents and records.
+"hotel, motel, and resort desk clerks",0.675,Hotel desk clerk checks guests in and out of the hotel.
+"interviewers, except eligibility and loan",0.796,Interviewer conducts interviews to assess candidate suitability for positions.
+"library assistants, clerical",0.832,Library assistant assists patrons with locating books and resources.
+loan interviewers and clerks,0.769,Loan interviewer reviews loan applications and conducts applicant interviews.
+order clerks,0.583,Order clerk processes incoming orders and ensures accuracy in order fulfillment.
+"human resources assistants, except payroll and timekeeping",0.881,"Human resources assistant handles administrative tasks, assists with onboarding, and supports employee relations."
+receptionists and information clerks,0.891,Receptionist greets visitors and handles incoming calls.
+reservation and transportation ticket agents and travel clerks,0.459,Travel clerk assists customers with booking reservations and purchasing transportation tickets.
+couriers and messengers,0.278,Courier delivers packages and important documents efficiently and on time.
+public safety telecommunicators,0.782,Public safety telecommunicator answers emergency calls and dispatches appropriate help.
+"dispatchers, except police, fire, and ambulance",0.544,Dispatcher coordinates communication and logistics for emergency services.
+postal service clerks,0.541,Postal service clerk processes and sorts incoming and outgoing mail.
+postal service mail carriers,0.347,Postal service mail carrier delivers mail and packages to designated addresses.
+"postal service mail sorters, processors, and processing machine operators",0.631,Postal service mail sorter organizes and processes mail for distribution.
+"production, planning, and expediting clerks",0.436,Production clerk coordinates and schedules production activities.
+"shipping, receiving, and inventory clerks",0.368,Shipping clerk handles shipping processes and logistics.
+"weighers, measurers, checkers, and samplers, recordkeeping",0.487,Weigher ensures accurate measurement and recording of products.
+executive secretaries and executive administrative assistants,0.9,Executive secretary manages administrative tasks and supports executives.
+legal secretaries and administrative assistants,0.964,Legal secretary assists attorneys in preparing legal documents and correspondence.
+medical secretaries and administrative assistants,0.928,Medical secretary schedules appointments and maintains patient records.
+"secretaries and administrative assistants, except legal, medical, and executive",0.919,Secretary organizes and manages office tasks and administrative duties.
+data entry keyers,0.727,Data entry keyer accurately types and inputs data into computer systems.
+insurance claims and policy processing clerks,0.801,Insurance claims and policy processing clerk verifies insurance information and processes claims.
+"office clerks, general",0.813,Office clerk organizes and maintains office files and documents.
+"first-line supervisors of farming, fishing, and forestry workers",0.181,First-line supervisor of farming coordinates and supervises farm activities and workers.
+miscellaneous agricultural workers,0.287,"Miscellaneous agricultural worker assists with various tasks on the farm such as planting, harvesting, and animal care."
+logging workers,0.017,Logging worker harvests and transports timber from forests.
+first-line supervisors of construction trades and extraction workers,0.051,First-line supervisor of construction trades oversees and coordinates construction activities on-site.
+"brickmasons, blockmasons, and stonemasons",0.015,Brickmason constructs walls and structures using bricks and mortar.
+carpenters,0.031,Carpenter constructs and repairs wooden structures and fixtures.
+"carpet, floor, and tile installers and finishers",0.058,Carpet installer lays and secures carpets for residential and commercial spaces.
+"cement masons, concrete finishers, and terrazzo workers",0.047,Cement mason smoothes and finishes concrete surfaces.
+construction laborers,0.045,Construction laborer assists in various tasks on construction sites.
+construction equipment operators,0.01,Construction equipment operator operates heavy machinery at construction sites.
+"drywall installers, ceiling tile installers, and tapers",0.041,Drywall installer applies drywall sheets and finishes walls for a smooth surface.
+electricians,0.029,"Electrician installs, maintains, and repairs electrical wiring and systems."
+insulation workers,0.05,Insulation worker installs and replaces insulation materials.
+painters and paperhangers,0.104,Painter decorates and improves surfaces with paint and wallpaper.
+pipelayers,0.014,Pipelayer installs and maintains underground pipelines for utility systems.
+"plumbers, pipefitters, and steamfitters",0.022,Plumber installs and repairs piping systems for water and drainage.
+roofers,0.044,Roofer installs and repairs roofs on buildings.
+sheet metal workers,0.065,Sheet metal worker fabricates and installs sheet metal products.
+"helpers, construction trades",0.062,Construction helper assists construction trades with various tasks on site.
+construction and building inspectors,0.105,Construction and building inspector examines structures and verifies compliance with building codes.
+highway maintenance workers,0.022,Highway maintenance worker repairs and maintains roadways to ensure safe driving conditions.
+miscellaneous construction and related workers,0.075,Miscellaneous construction worker handles various tasks on construction sites.
+"first-line supervisors of mechanics, installers, and repairers",0.071,"First-line supervisor of mechanics oversees and coordinates the work of mechanics, installers, and repairers."
+"computer, automated teller, and office machine repairers",0.138,Computer repairer troubleshoots and repairs computer systems.
+radio and telecommunications equipment installers and repairers,0.059,Radio and telecommunications equipment installer sets up and maintains communication devices.
+aircraft mechanics and service technicians,0.043,"Aircraft mechanic inspects, maintains, and repairs aircraft components."
+automotive body and related repairers,0.068,Automotive body repairer restores and refinishes vehicle exteriors.
+automotive service technicians and mechanics,0.025,Automotive service technician diagnoses and repairs vehicle mechanical issues.
+bus and truck mechanics and diesel engine specialists,0.016,"Bus and truck mechanic diagnoses and repairs mechanical issues in buses, trucks, and diesel engines."
+heavy vehicle and mobile equipment service technicians and mechanics,0.023,Heavy vehicle and mobile equipment service technician inspects and repairs large vehicles and mobile equipment.
+"miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",0.032,Miscellaneous vehicle mechanic installs and repairs various types of vehicles and mobile equipment.
+"heating, air conditioning, and refrigeration mechanics and installers",0.023,"Heating, air conditioning, and refrigeration mechanic installs and repairs HVAC systems."
+industrial and refractory machinery mechanics,0.039,Industrial and refractory machinery mechanic troubleshoots and repairs industrial equipment.
+"maintenance and repair workers, general",0.047,Maintenance and repair worker troubleshoots and fixes equipment and systems.
+electrical power-line installers and repairers,0.023,Electrical power-line installer installs and repairs electrical power lines.
+telecommunications line installers and repairers,0.053,Telecommunications line installer and repairer installs and repairs telecommunication lines for optimal connectivity.
+first-line supervisors of production and operating workers,0.235,First-line supervisor of production and operating workers coordinates and supervises work activities of production and operating workers.
+"electrical, electronics, and electromechanical assemblers",0.459,Electrical assembler builds and installs electrical components and systems.
+bakers,0.655,Baker prepares and bakes various types of bread and pastries.
+food batchmakers,0.557,Food batchmaker prepares ingredients for production and follows established recipes.
+computer numerically controlled tool operators and programmers,0.078,Computer numerically controlled tool operator sets up and operates CNC machines for production.
+"cutting, punching, and press machine setters, operators, and tenders, metal and plastic",0.07,Cutting machine operator sets up and operates cutting machines for metal and plastic materials.
+machinists,0.063,Machinist operates machine tools to produce precision metal parts.
+"welding, soldering, and brazing workers",0.058,"Welder joins metal parts together by welding, soldering, and brazing."
+printing press operators,0.247,Printing press operator operates printing press machinery to produce printed materials.
+laundry and dry-cleaning workers,0.745,Laundry worker operates washing machines and dryers for cleaning clothes.
+sewing machine operators,0.707,Sewing machine operator stitches garments and textiles.
+"tailors, dressmakers, and sewers",0.814,Tailor designs and alters clothing to fit customers' preferences.
+cabinetmakers and bench carpenters,0.055,Cabinetmaker creates customized cabinets and furniture.
+stationary engineers and boiler operators,0.071,Stationary engineer operates and maintains stationary engines and boilers.
+water and wastewater treatment plant and system operators,0.073,Water and wastewater treatment plant operator monitors water treatment processes and ensures safe disposal of wastewater.
+"crushing, grinding, polishing, mixing, and blending workers",0.155,Crushing worker operates machinery to crush materials for further processing.
+cutting workers,0.311,Cutting worker operates cutting machinery to cut materials in manufacturing processes.
+"inspectors, testers, sorters, samplers, and weighers",0.39,Inspector examines products for quality and conformity.
+jewelers and precious stone and metal workers,0.46,Jeweler crafts and repairs jewelry using precious stones and metals.
+dental and ophthalmic laboratory technicians and medical appliance technicians,0.589,Dental and ophthalmic laboratory technician constructs dental appliances and eyeglasses.
+packaging and filling machine operators and tenders,0.573,Packaging and filling machine operator monitors packaging and filling processes.
+painting workers,0.113,Painting worker applies paint and coatings to surfaces.
+helpers--production workers,0.444,Production worker assembles and inspects products on the production line.
+supervisors of transportation and material moving workers,0.255,Supervisor of transportation and material moving workers directs and coordinates the activities of transportation and material moving workers.
+aircraft pilots and flight engineers,0.083,Aircraft pilot flies and navigates aircraft.
+flight attendants,0.78,Flight attendant ensures passenger safety and comfort during flights.
+"bus drivers, school",0.561,Bus driver transports students to and from school safely.
+"bus drivers, transit and intercity",0.372,Bus driver operates buses along scheduled routes to transport passengers.
+driver/sales workers and truck drivers,0.069,Driver/sales worker drives a vehicle to deliver goods and promote sales.
+shuttle drivers and chauffeurs,0.107,Shuttle driver transports passengers between designated locations.
+taxi drivers,0.153,Taxi driver transports passengers to their destinations safely and efficiently.
+parking attendants,0.135,Parking attendant assists drivers with parking and vehicle management.
+transportation service attendants,0.234,Transportation service attendant assists passengers with boarding and disembarking.
+crane and tower operators,0.029,Crane operator controls and maneuvers the crane for lifting and moving heavy materials.
+industrial truck and tractor operators,0.095,Industrial truck and tractor operator drives and operates industrial trucks and tractors for material transportation.
+cleaners of vehicles and equipment,0.204,Cleaner cleans vehicles and equipment.
+"laborers and freight, stock, and material movers, hand",0.242,Laborer moves materials and stocks within a warehouse or freight setting.
+"packers and packagers, hand",0.517,Packager assembles and labels products for shipment.
+stockers and order fillers,0.365,Stocker organizes and replenishes inventory in retail stores.
+refuse and recyclable material collectors,0.128,Refuse and recyclable material collector gathers and sorts refuse and recyclables for disposal and recycling.
